@@ -81,7 +81,19 @@ AI 已經有發展到一定的程度了，然而運用 AI 的領域實在不算�
 ## Data
 data source: TEJ, yahoo finance, apple stock
 會先將.csv 下載下來後，再使用 pandas, numpy 等進行 EDA
-![](https://github.com/maomao0819/Stock-prediction/blob/main/1.png)
+![](https://user-images.githubusercontent.com/43957213/126780430-79530b63-9418-431a-b5c7-5aa9288b2ddc.png)
+![](https://user-images.githubusercontent.com/43957213/126780805-81363837-2558-4a4a-8368-409bdf277fd0.png)
+![](https://user-images.githubusercontent.com/43957213/126780811-a0542c2b-44a1-4853-9f26-370770e9ce3e.png)
+![](https://user-images.githubusercontent.com/43957213/126780816-2a4038b6-12d8-4e34-be04-1432f8f3701e.png)
+![](https://user-images.githubusercontent.com/43957213/126780820-53b20c05-2276-42c4-954a-e1ce9dd0f87f.png)
+![](https://user-images.githubusercontent.com/43957213/126780823-6e5ed466-794b-4213-9b7b-ea2667e1949b.png)
+![](https://user-images.githubusercontent.com/43957213/126780834-061740d9-6617-4b69-95e1-50dacdc37a46.png)
+![](https://user-images.githubusercontent.com/43957213/126780840-671936e3-2f43-4153-9834-8b6b42981333.png)
+![](https://user-images.githubusercontent.com/43957213/126780843-bab126fd-e4f9-405b-b97f-fd481833e1f4.png)
+![](https://user-images.githubusercontent.com/43957213/126780856-e5b22a14-3f98-4fd3-9362-d8c8ab46cf1c.png)
+![](https://user-images.githubusercontent.com/43957213/126780864-dae6cc5d-b3c5-4a7d-a654-d70175ed99de.png)
+![](https://user-images.githubusercontent.com/43957213/126780866-51626aa1-622d-406d-bc5b-bdd3a74c683a.png)
+![](https://user-images.githubusercontent.com/43957213/126780876-4cd4ae7a-2068-41ad-ba92-2cac662727cc.png)
 ### stock
 * 0050 Yuanta Taiwan Top5: 0050 元大台灣 50
 * 0056 PTD: 0056 元大高股息
