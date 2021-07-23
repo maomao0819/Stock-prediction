@@ -81,6 +81,7 @@ AI 已經有發展到一定的程度了，然而運用 AI 的領域實在不算�
 ## Data
 data source: TEJ, yahoo finance, apple stock
 會先將.csv 下載下來後，再使用 pandas, numpy 等進行 EDA
+![](https://github.com/maomao0819/Stock-prediction/blob/main/1.png)
 ### stock
 * 0050 Yuanta Taiwan Top5: 0050 元大台灣 50
 * 0056 PTD: 0056 元大高股息
