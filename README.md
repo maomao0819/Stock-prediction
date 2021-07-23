@@ -128,8 +128,11 @@ data source: TEJ, yahoo finance, apple stock
 * 將資料分為 train 和 test(一個月)
 ![](https://user-images.githubusercontent.com/43957213/126780430-79530b63-9418-431a-b5c7-5aa9288b2ddc.png)
 ![](https://user-images.githubusercontent.com/43957213/126780805-81363837-2558-4a4a-8368-409bdf277fd0.png)
+
 ![](https://user-images.githubusercontent.com/43957213/126780811-a0542c2b-44a1-4853-9f26-370770e9ce3e.png)
+
 ![](https://user-images.githubusercontent.com/43957213/126780816-2a4038b6-12d8-4e34-be04-1432f8f3701e.png)
+
 ![](https://user-images.githubusercontent.com/43957213/126780820-53b20c05-2276-42c4-954a-e1ce9dd0f87f.png)
 ![](https://user-images.githubusercontent.com/43957213/126780823-6e5ed466-794b-4213-9b7b-ea2667e1949b.png)
 ![](https://user-images.githubusercontent.com/43957213/126780834-061740d9-6617-4b69-95e1-50dacdc37a46.png)
