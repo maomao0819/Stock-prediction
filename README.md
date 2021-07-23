@@ -25,6 +25,13 @@ AI 已經有發展到一定的程度了，然而運用 AI 的領域實在不算�
 通常只在乎國內的情形，很少對國外的金融商品下手。如果下列的成果
 都那麼好，那台灣的資料也會一樣好嗎?所以我會透過技術面去預測及分
 析股價。
+## Related Work 
+*	["Global stock market investment strategies based on financial network indicators using machine learning techniques. "](https://www.sciencedirect.com/science/article/abs/pii/S0957417418305761) Lee, Tae Kyun, et al. "Global stock market investment strategies based on financial network indicators using machine learning techniques." Expert Systems with Applications 117 (2019): 228-242.
+*	["Supporting Investment Management Processes with Machine Learning Techniques."](https://www.researchgate.net/profile/Martin_Sedlmayr/publication/221200937_Unterstutzung_medizinischer_Leitlinien_-_Von_der_zielorientierten_Modellierung_zur_proaktiven_Assistenz/links/0a85e531c2277cd61d000000.pdf#page=275) Groth, Sven S., and Jan Muntermann. "Supporting Investment Management Processes with Machine Learning Techniques." Wirtschaftsinformatik (2). 2009.
+*	["A machine learning model for stock market prediction."](https://arxiv.org/ftp/arxiv/papers/1402/1402.7351.pdf) Hegazy, Osman, Omar S. Soliman, and Mustafa Abdul Salam. "A machine learning model for stock market prediction." arXiv preprint arXiv:1402.7351 (2014).
+*	["Predicting stock and stock price index movement using trend deterministic data preparation and machine learning techniques."](https://www.sciencedirect.com/science/article/pii/S0957417414004473) Patel, Jigar, et al. "Predicting stock and stock price index movement using trend deterministic data preparation and machine learning techniques." Expert systems with applications 42.1 (2015): 259-268.
+*	希望能用台灣的股票資料，做出和上述差不多好的結果
+
 ## Methodology
 ### Problem statement - Technical analysis
 1. 起始金額為現金 10,000 元，希望最後能賺最多錢
