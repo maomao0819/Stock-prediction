@@ -1,30 +1,12 @@
 # Stock-prediction
 ## Abstract
-AI 發展時至今日，在分群和辨識系統上已經做得很好了，人臉辨
-識、遊戲甚至是遠超人類，然而，在金融上的成就遠遠不及其他領域，
-也許是因為財金這塊領域的 domain knowledge 太深，導致模型在基礎設
-定上本來就考慮的不夠周全，因此我希望能運用機器學習看看 ML 是否能
-幫助股票分析。
+AI 發展時至今日，在分群和辨識系統上已經做得很好了，人臉辨識、遊戲甚至是遠超人類，然而，在金融上的成就遠遠不及其他領域，也許是因為財金這塊領域的 domain knowledge太深，導致模型在基礎設
+定上本來就考慮的不夠周全，因此我希望能運用機器學習看看 ML 是否能幫助股票分析。
 ## Motivation
-個人利益方面，當然是希望所學能幫自己賺錢。社會方面，因為 AI
-在有些方面已經超越人類了，像是圍棋，而運用在財金方面是否能有顯
-著的提供協助?財金相較於其他領域是更貼近人們的生活的，因此可能對
-人類的生活產生巨變，而且投資要考量的變數實在很多，所以我很好奇
-運用 AI 技術的投資能否打敗人類。
-AI 已經有發展到一定的程度了，然而運用 AI 的領域實在不算多，目
-前可能只有遊戲、視覺、跟自然語言處理有比較傑出的成果，AI 勢必還
-需要在某些能大大改變人們生活的領域發展，更能顯的 AI 會如何影響人
-類。如果 AI 加上財金將會大大地改變人們的生活，而且投資並不是只有
-考量數學，還是一門跟人文、心理相關的學問，而 AI 是否能連這些都考
-慮到是我所好奇的。
+* 個人利益方面，當然是希望所學能幫自己賺錢。社會方面，因為 AI在有些方面已經超越人類了，像是圍棋，而運用在財金方面是否能有顯著的提供協助?財金相較於其他領域是更貼近人們的生活的，因此可能對人類的生活產生巨變，而且投資要考量的變數實在很多，所以我很好奇運用 AI 技術的投資能否打敗人類。
+* AI 已經有發展到一定的程度了，然而運用 AI 的領域實在不算多，目前可能只有遊戲、視覺、跟自然語言處理有比較傑出的成果，AI 勢必還需要在某些能大大改變人們生活的領域發展，更能顯的 AI 會如何影響人類。如果 AI 加上財金將會大大地改變人們的生活，而且投資並不是只有考量數學，還是一門跟人文、心理相關的學問，而 AI 是否能連這些都考慮到是我所好奇的。
 ## Introduction
-在 AI 在其他領域有不凡的成就時，很多資料分析師都有個疑問，像
-是財金那麼複雜且和人們息息相關的領域，ML 有辦法去輔助人們做出決
-策嗎?以下是很多國外學者在股票分析上的成果，而我想看看當分析的資
-料不是全世界，而是僅僅是台灣時，會發生什麼事情?畢竟一般的台灣人
-通常只在乎國內的情形，很少對國外的金融商品下手。如果下列的成果
-都那麼好，那台灣的資料也會一樣好嗎?所以我會透過技術面去預測及分
-析股價。
+在 AI 在其他領域有不凡的成就時，很多資料分析師都有個疑問，像是財金那麼複雜且和人們息息相關的領域，ML 有辦法去輔助人們做出決策嗎?以下是很多國外學者在股票分析上的成果，而我想看看當分析的資料不是全世界，而是僅僅是台灣時，會發生什麼事情?畢竟一般的台灣人通常只在乎國內的情形，很少對國外的金融商品下手。如果下列的成果都那麼好，那台灣的資料也會一樣好嗎?所以我會透過技術面去預測及分析股價。
 ## Related Work 
 *	["Global stock market investment strategies based on financial network indicators using machine learning techniques. "](https://www.sciencedirect.com/science/article/abs/pii/S0957417418305761) Lee, Tae Kyun, et al. "Global stock market investment strategies based on financial network indicators using machine learning techniques." Expert Systems with Applications 117 (2019): 228-242.
 *	["Supporting Investment Management Processes with Machine Learning Techniques."](https://www.researchgate.net/profile/Martin_Sedlmayr/publication/221200937_Unterstutzung_medizinischer_Leitlinien_-_Von_der_zielorientierten_Modellierung_zur_proaktiven_Assistenz/links/0a85e531c2277cd61d000000.pdf#page=275) Groth, Sven S., and Jan Muntermann. "Supporting Investment Management Processes with Machine Learning Techniques." Wirtschaftsinformatik (2). 2009.
