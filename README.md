@@ -127,8 +127,11 @@ data source: TEJ, yahoo finance, apple stock
 ![](https://user-images.githubusercontent.com/43957213/126780876-4cd4ae7a-2068-41ad-ba92-2cac662727cc.png)
 ## Results
 final money with regression: 11025.41257057684
+
 final money with svm: 11424.564134181688
+
 final money with dnn model: 11720.512937545913
+
 只用 30 都能從 10000 賺到 11000 以上，可以看出三種模型都是有幫
 助的，也能看出 ML 和 DL 的確是有用的技術，能幫助我們賺更多
 錢，因為基本上賺的都比儲蓄高，可以認為對預測買賣是有一定的效
